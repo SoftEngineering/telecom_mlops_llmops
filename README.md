@@ -166,38 +166,38 @@ telecom-ml-llmops/
 
 # 🚀 Roadmap (6 semanas)
 
-### **Semana 1 – Planejamento**
+### **Grupo 1 – Planejamento**
 
 * Criar repositório GitHub
 * Configurar Kanban
 * Preparar estrutura inicial
 * Provisionar Google Cloud
 
-### **Semana 2 – MLOps: dados**
+### **Grupo 2 – MLOps: dados**
 
 * Criar Data Lake e DW
 * Criar features
 * Criar pipeline inicial
 
-### **Semana 3 – Treinamento e Deploy do modelo de churn**
+### **Grupo 3 – Treinamento e Deploy do modelo de churn**
 
 * Training pipeline
 * Avaliação e registro
 * Deploy em Vertex Prediction
 
-### **Semana 4 – LLMOps: RAG**
+### **Grupo 4 – LLMOps: RAG**
 
 * Ingestão de documentos
 * Criação do índice RAG
 * Testes iniciais
 
-### **Semana 5 – LLM Assistant**
+### **Grupo 5 – LLM Assistant**
 
 * Criar agente
 * Conectar churn ao LLM
 * Criar APIs
 
-### **Semana 6 – CI/CD & Observabilidade**
+### **Grupo 6 – CI/CD & Observabilidade**
 
 * GitHub Actions completo
 * Alertas e dashboards
