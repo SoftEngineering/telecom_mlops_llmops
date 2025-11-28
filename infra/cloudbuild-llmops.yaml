@@ -1,0 +1,12 @@
+steps:
+  - name: "gcr.io/cloud-builders/docker"
+    id: "build-llmops-image"
+    args:
+      - "build"
+      - "-t"
+      - "$_IMAGE_NAME"
+      - "llmops"
+
+images:
+  - "$_IMAGE_NAME"
+

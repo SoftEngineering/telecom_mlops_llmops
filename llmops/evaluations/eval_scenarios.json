@@ -1,0 +1,17 @@
+{
+  "scenarios": [
+    {
+      "id": "troubleshooting_internet_lenta",
+      "description": "Cliente relata internet lenta em período noturno.",
+      "input": "Minha internet está muito lenta à noite, o que posso fazer?",
+      "expected_behavior": "Diagnosticar possíveis causas, orientar cliente e sugerir abertura de chamado se necessário."
+    },
+    {
+      "id": "explicacao_fatura_valor_alto",
+      "description": "Cliente reclama de fatura mais alta do que o normal.",
+      "input": "Minha fatura veio muito alta este mês, por quê?",
+      "expected_behavior": "Explicar principais componentes da fatura e identificar cobranças pontuais."
+    }
+  ]
+}
+
