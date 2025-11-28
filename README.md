@@ -119,7 +119,7 @@ Inclui:
 
 ---
 
-# 📂 Estrutura de Pastas Recomendada
+# 📂 Estrutura de Pastas
 
 ```
 telecom-ml-llmops/
@@ -164,40 +164,40 @@ telecom-ml-llmops/
 
 ---
 
-# 🚀 Roadmap (6 semanas)
+# 🚀 Roadmap (6 fases)
 
-### **Grupo 1 – Planejamento**
+### **Fase 1 – Planejamento**
 
 * Criar repositório GitHub
 * Configurar Kanban
 * Preparar estrutura inicial
 * Provisionar Google Cloud
 
-### **Grupo 2 – MLOps: dados**
+### **Fase 2 – MLOps: dados**
 
 * Criar Data Lake e DW
 * Criar features
 * Criar pipeline inicial
 
-### **Grupo 3 – Treinamento e Deploy do modelo de churn**
+### **Fase 3 – Treinamento e Deploy do modelo de churn**
 
 * Training pipeline
 * Avaliação e registro
 * Deploy em Vertex Prediction
 
-### **Grupo 4 – LLMOps: RAG**
+### **Fase 4 – LLMOps: RAG**
 
 * Ingestão de documentos
 * Criação do índice RAG
 * Testes iniciais
 
-### **Grupo 5 – LLM Assistant**
+### **Fase 5 – LLM Assistant**
 
 * Criar agente
 * Conectar churn ao LLM
 * Criar APIs
 
-### **Grupo 6 – CI/CD & Observabilidade**
+### **Fase 6 – CI/CD & Observabilidade**
 
 * GitHub Actions completo
 * Alertas e dashboards
@@ -304,20 +304,10 @@ git commit -m "feat: adiciona pipeline de treinamento v1"
 
 ---
 
-# 📞 Contato e Suporte
-
-**Time de Engenharia (Simulação de Cliente Telecom):**
-
-* Engenheiro de Machine Learning
-* Engenheiro de LLMOps
-
----
-
 # 🎯 Objetivo Final do Projeto
 
 Criar uma **plataforma de ML + LLM realmente profissional**, seguindo padrões industriais do Google Cloud, reprodutível em qualquer empresa, permitindo:
 
-* Apresentar em portfólio
 * Treinar equipes
 * Construir MVPs de IA corporativa
 
